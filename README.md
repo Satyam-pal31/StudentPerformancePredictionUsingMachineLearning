@@ -44,7 +44,7 @@ Scikit-learn
 ## Files Included:
 StudentPerformancePrediction.ipynb – Main notebook
 
-AI-Data.csv – Dataset used
+StudentData.csv – Dataset used
 
 PPT - Full Project Explaintion
 
