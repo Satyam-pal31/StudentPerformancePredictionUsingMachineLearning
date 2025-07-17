@@ -1,21 +1,15 @@
 # StudentPerformancePredictionUsingMachineLearning
 
-📄 Description:
-This project aims to predict student academic performance levels — Low (L), Medium (M), or High (H) — using machine learning algorithms based on classroom behavior and participation data.
+## Description:
+->This project aims to predict student academic performance levels — Low (L), Medium (M), or High (H) — using machine learning algorithms based on classroom behavior and participation data.
+->The dataset includes features such as:
+->Number of times the student raised hands
+->Use of class resources
+->Participation in discussions
+->Absence days
+->Background information (grade, gender, etc.)
 
-The dataset includes features such as:
-
-Number of times the student raised hands
-
-Use of class resources
-
-Participation in discussions
-
-Absence days
-
-Background information (grade, gender, etc.)
-
-The project uses five machine learning models:
+**The project uses five machine learning models:**
 
 Decision Tree Classifier
 
