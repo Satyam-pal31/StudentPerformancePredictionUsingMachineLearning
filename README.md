@@ -46,14 +46,14 @@ StudentPerformancePrediction.ipynb – Main notebook
 
 AI-Data.csv – Dataset used
 
+PPT - Full Project Explaintion
+
 README.md – Project description
 
-Graphs, output screenshots (optional)
-
 ## How to Use:
-Open the notebook in Google Colab or Jupyter Notebook
+Open the notebook in Google Colab
 
-Upload the dataset AI-Data.csv
+Upload the dataset StudentData.csv
 
 Run all cells to train and evaluate the models
 
