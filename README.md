@@ -1,15 +1,20 @@
 # StudentPerformancePredictionUsingMachineLearning
 
 ## Description:
-->This project aims to predict student academic performance levels — Low (L), Medium (M), or High (H) — using machine learning algorithms based on classroom behavior and participation data.
-->The dataset includes features such as:
-->Number of times the student raised hands
-->Use of class resources
-->Participation in discussions
-->Absence days
-->Background information (grade, gender, etc.)
+This project aims to predict student academic performance levels — Low (L), Medium (M), or High (H) — using machine learning algorithms based on classroom behavior and participation data.
+The dataset includes features such as:
 
-**The project uses five machine learning models:**
+Number of times the student raised hands
+
+Use of class resources
+
+Participation in discussions
+
+Absence days
+
+Background information (grade, gender, etc.)
+
+## The project uses five machine learning models:
 
 Decision Tree Classifier
 
@@ -25,7 +30,7 @@ The notebook is developed in Google Colab using Python, and libraries such as Pa
 
 The model evaluation is based on accuracy, precision, recall, and F1-score, with Random Forest achieving the highest accuracy.
 
-🚀 Technologies Used:
+## Technologies Used:
 Python
 
 Google Colab
@@ -36,7 +41,7 @@ Matplotlib, Seaborn
 
 Scikit-learn
 
-📁 Files Included:
+## Files Included:
 StudentPerformancePrediction.ipynb – Main notebook
 
 AI-Data.csv – Dataset used
@@ -45,7 +50,7 @@ README.md – Project description
 
 Graphs, output screenshots (optional)
 
-✅ How to Use:
+## How to Use:
 Open the notebook in Google Colab or Jupyter Notebook
 
 Upload the dataset AI-Data.csv
